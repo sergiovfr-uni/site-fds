@@ -1,0 +1,95 @@
+[
+  {
+    "start": 0,
+    "end": 6,
+    "kicker": "PALAVRA. REGISTRO. CONFIANÇA.",
+    "title": [
+      "Negócio bom",
+      "tem palavra."
+    ],
+    "body": [
+      "E o combinado merece registro."
+    ]
+  },
+  {
+    "start": 6,
+    "end": 11,
+    "kicker": "CONHEÇA O FIO DO BIGODE",
+    "title": [
+      "O acordo é seu.",
+      "O histórico também."
+    ],
+    "body": [
+      "Organize o que foi combinado,",
+      "da proposta ao acompanhamento."
+    ]
+  },
+  {
+    "start": 11,
+    "end": 18,
+    "kicker": "TRÊS PILARES. UMA VISÃO.",
+    "title": [
+      "Cada acordo,",
+      "no seu tempo."
+    ],
+    "pillars": true
+  },
+  {
+    "start": 18,
+    "end": 25,
+    "kicker": "DO ENCONTRO À FORMALIZAÇÃO",
+    "title": [
+      "Defina. Convide.",
+      "Formalize."
+    ],
+    "body": [
+      "Propostas e contrapropostas.",
+      "Identidade verificada e assinatura eletrônica."
+    ],
+    "chips": [
+      "CLASSIFICADOS",
+      "CONVITE DIRETO",
+      "DOCUMENTOS"
+    ]
+  },
+  {
+    "start": 25,
+    "end": 31,
+    "kicker": "O COMBINADO CONTINUA",
+    "title": [
+      "Cada parcela.",
+      "Cada registro."
+    ],
+    "body": [
+      "Comprovantes, confirmações e histórico.",
+      "Quitação e reputação na jornada do acordo."
+    ]
+  },
+  {
+    "start": 31,
+    "end": 37,
+    "kicker": "REDE JURÍDICA POR CONVITE",
+    "title": [
+      "Quando precisar,",
+      "peça apoio."
+    ],
+    "body": [
+      "Autorize o compartilhamento do dossiê.",
+      "O admin encaminha o caso ao escritório."
+    ],
+    "note": "Atendimento combinado entre cliente e escritório."
+  },
+  {
+    "start": 37,
+    "end": 44,
+    "kicker": "FIO DO BIGODE",
+    "title": [
+      "Seu próximo acordo",
+      "começa aqui."
+    ],
+    "body": [
+      "Acesse pelo navegador."
+    ],
+    "cta": true
+  }
+]
